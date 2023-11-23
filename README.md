@@ -1,4 +1,3 @@
-# C-And-CPP-Projects
 ## Description& output images of the programs
 
 <details> 
